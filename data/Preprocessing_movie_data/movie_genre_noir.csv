@@ -1,0 +1,4 @@
+moviename,openingdate,sales,attendance,screen,playcount,country,country_label,distributor,distributor_label,director,actor,filmrank,filmrank_label,openingmonth
+시라노; 연애조작단,2010-09-16,19838369000,2684783,415,77736,domestic,0,major_domestic,0,2325818,3,X_rated,2,9
+시체가 돌아왔다,2012-03-29,7360631000,986923,435,36705,domestic,0,major_domestic,0,986923,3,X_rated,2,3
+미성년,2019-04-11,2494615950,293352,673,27314,domestic,0,major_domestic,0,799200,3,X_rated,2,4

@@ -1,0 +1,10 @@
+moviename,openingdate,sales,attendance,screen,playcount,country,country_label,distributor,distributor_label,director,actor,filmrank,filmrank_label,openingmonth
+설국열차,2013-08-01,67010087500,9349993,1128,124823,domestic,0,major_domestic,0,9349993,1,PG 15,1,8
+검은 사제들,2015-11-05,42405282092,5442128,1109,131155,domestic,0,major_domestic,0,5442128,1,PG 12,3,11
+다만 악에서 구하소서,2020-08-05,38602260990,4357803,1998,193842,domestic,0,major_domestic,0,4391403,3,PG 12,3,8
+형,2016-11-23,23113768293,2979659,993,83518,domestic,0,major_domestic,0,2979659,2,G_rated,0,11
+엘리시움,2013-08-29,9017994500,1207732,588,31515,abroad,1,major_abroad,1,1207732,3,PG 12,3,8
+메가마인드,2011-01-13,8688842000,875631,414,22905,abroad,1,major_domestic,0,875631,2,G_rated,0,1
+통증,2011-09-07,5246996000,700272,317,29211,domestic,0,major_domestic,0,1065408,3,G_rated,0,9
+극장판 요괴워치: 탄생의 비밀이다냥!,2015-07-22,3888539100,550924,509,11765,abroad,1,major_domestic,0,550924,3,PG 15,1,7
+두 개의 달,2012-07-12,2949348748,426706,347,16810,domestic,0,major_domestic,0,1065408,3,G_rated,0,7

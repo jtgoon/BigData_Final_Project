@@ -1,0 +1,4 @@
+moviename,openingdate,sales,attendance,screen,playcount,country,country_label,distributor,distributor_label,director,actor,filmrank,filmrank_label,openingmonth
+하모니,2010-01-28,21641750000,3018131,384,77723,domestic,0,major_domestic,0,2668985,3,G_rated,0,1
+너의 췌장을 먹고 싶어,2017-10-25,3703660800,465265,218,16849,abroad,1,major_domestic,0,465265,3,G_rated,0,10
+넛잡: 땅콩 도둑들,2014-01-29,3283691800,478993,382,10817,domestic,0,etc_distributor,2,478993,2,PG 15,1,1
