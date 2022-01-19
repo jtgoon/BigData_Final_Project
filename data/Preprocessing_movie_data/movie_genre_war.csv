@@ -1,0 +1,7 @@
+moviename,openingdate,sales,attendance,screen,playcount,country,country_label,distributor,distributor_label,director,actor,filmrank,filmrank_label,openingmonth
+그랜드 부다페스트 호텔,2014-03-20,6019756082,774699,241,26377,abroad,1,etc_distributor,2,799200,3,PG 12,3,3
+얼라이드,2017-01-11,4278041179,518886,546,19875,abroad,1,major_domestic,0,518886,2,PG 12,3,1
+47미터 2,2019-08-28,3846315153,501934,649,24027,abroad,1,etc_distributor,2,404176,6,PG 12,3,8
+헬보이,2019-04-10,2777106321,323198,726,26507,abroad,1,etc_distributor,2,733192,3,PG 15,1,4
+위대한 쇼맨,2017-12-20,1897251570,306419,598,31915,abroad,1,major_abroad,1,404176,3,PG 15,1,12
+조조 래빗,2020-02-05,965388200,112136,277,9147,abroad,1,major_abroad,1,112136,2,PG 15,1,2
